@@ -1,0 +1,50 @@
+{
+  "templates": [
+    {
+      "id": "endurance",
+      "name": "Endurance Build",
+      "weeks": 12,
+      "blocks": [
+        {"name": "Base", "weeks": 4, "focus": "Easy volume, aerobic foundation", "load": 2},
+        {"name": "Build", "weeks": 4, "focus": "Threshold work enters the week", "load": 3},
+        {"name": "Peak", "weeks": 2, "focus": "Race pace and sharpening", "load": 4},
+        {"name": "Taper", "weeks": 1, "focus": "Volume down, intensity kept", "load": 2},
+        {"name": "Race", "weeks": 1, "focus": "The event itself", "load": 5}
+      ]
+    },
+    {
+      "id": "strength",
+      "name": "Strength Cycle",
+      "weeks": 10,
+      "blocks": [
+        {"name": "Anatomical", "weeks": 3, "focus": "Tendons and technique first", "load": 2},
+        {"name": "Hypertrophy", "weeks": 3, "focus": "Volume at moderate load", "load": 3},
+        {"name": "Max Strength", "weeks": 3, "focus": "Heavy, low reps, long rests", "load": 4},
+        {"name": "Deload", "weeks": 1, "focus": "Half the volume, keep the pattern", "load": 1}
+      ]
+    },
+    {
+      "id": "team",
+      "name": "Team Season",
+      "weeks": 16,
+      "blocks": [
+        {"name": "Preseason", "weeks": 4, "focus": "Conditioning and squad shape", "load": 4},
+        {"name": "Early Season", "weeks": 5, "focus": "Match rhythm, light midweeks", "load": 3},
+        {"name": "Mid Season", "weeks": 4, "focus": "Maintain, manage the load", "load": 3},
+        {"name": "Run In", "weeks": 2, "focus": "Freshness over fitness", "load": 2},
+        {"name": "Playoffs", "weeks": 1, "focus": "Peak week", "load": 5}
+      ]
+    },
+    {
+      "id": "return",
+      "name": "Return to Play",
+      "weeks": 8,
+      "blocks": [
+        {"name": "Protect", "weeks": 2, "focus": "Range of motion, no impact", "load": 1},
+        {"name": "Rebuild", "weeks": 3, "focus": "Load tolerance, straight lines", "load": 2},
+        {"name": "Reintroduce", "weeks": 2, "focus": "Change of direction and contact", "load": 3},
+        {"name": "Full Training", "weeks": 1, "focus": "Full sessions before selection", "load": 4}
+      ]
+    }
+  ]
+}
